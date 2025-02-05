@@ -15,3 +15,11 @@
 
 //by default cra it takes 3000 port number 
 //but vite uses 5173 port
+
+10. delete eslint.config.js 
+11. remove strict mode from main.jsx and its import 
+13. clear index.css and App.css 
+14. clear App.jsx and and rafce hello world 
+
+15. index.html -> change title 
+16. add meta tags og tags and favicon there 
