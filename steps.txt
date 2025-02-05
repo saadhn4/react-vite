@@ -23,3 +23,5 @@
 
 15. index.html -> change title 
 16. add meta tags og tags and favicon there 
+
+17. 
