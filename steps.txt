@@ -24,4 +24,21 @@
 15. index.html -> change title 
 16. add meta tags og tags and favicon there 
 
-17. 
+17. React vs HTML :
+
+-  HTML uses Javascript DOM 
+- Changing a single element or button takes whole page to reload 
+- In React, it uses something called virtual DOM 
+- It clones the original DOM and makes a copy called virtual DOM 
+- Virtual dom only changes the component which is changed , instead of reloading the whole website
+
+18. Hooks: 
+
+- Hooks are the special type of functions in React 
+
+1. useState 
+
+- Why useState? : Dynamic variables should be used with useState
+It is a new way to use variables in react
+
+-How to use useState
