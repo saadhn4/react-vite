@@ -1,0 +1,17 @@
+1. Create a new repo of your project name 
+2. git clone ssh url
+3. cd repoName
+4. npm create vite@latest
+//Vite is a bundler tool for react setup 
+//Vite is faster tahn CRA 
+//React is a library for building UI components 
+//React deals with virtual DOM
+
+5. Enter project name as client 
+6. Select React and then Javascript 
+7. cd client 
+8. npm i 
+9. npm run dev
+
+//by default cra it takes 3000 port number 
+//but vite uses 5173 port
